@@ -86,5 +86,8 @@ module systolic_array(inp_west0, inp_west4, inp_west8, inp_west12,
 	
 		      
 endmodule
+
+
+.
 		      
 
