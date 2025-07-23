@@ -1,4 +1,4 @@
-
+//this file gives the hardcoded 4x4 systolic array the testbench is available in the sysarray44_tb.v
 
 module block(inp_north, inp_west, clk, rst, outp_south, outp_east, result);
 	input [31:0] inp_north, inp_west;
